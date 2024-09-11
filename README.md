@@ -8,5 +8,5 @@ These inventories have **NO USE**! It's purely for the fun of having them unlock
 1. Visit your Steam inventory page using Chrome _(or any Chrome based browser of choice)_
 2. Press F12 > Console
 3. Paste the [code](https://github.com/psydex/Unlock-extra-Steam-inventories/blob/main/code) and press **Enter** > Wait for it to finish
-4. Refresh your inventry
+4. Refresh your inventory
 5. Profit?
